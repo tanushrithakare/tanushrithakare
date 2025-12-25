@@ -31,7 +31,7 @@
 * State-wise healthy recipes using local foods
 * Job platform for blue-collar workers
 
-🔗 Repository: [https://github.com/tanushrithakare/EATWISEPRO](https://github.com/tanushrithakare/EATWISEPRO)
+🔗 Repository: (https://github.com/tanushrithakare/eatwise-pro.git)
 
 ---
 
