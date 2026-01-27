@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJycXlvYzEyNDczY2o2dHA2NmczYm1nbG1xb2YxMmJnanRia2lyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="100%" height="300" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXcxaWd1OTdxMjZ5bzZ4eGxuNjhmdmRsbWVoNGRhdTk3NDRsOXp0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zFBj4UsdDKX1uEO05l/giphy.gif" width="100%" height="300" />
 
 # Hi, I'm Tanushri Thakare 👋
 
