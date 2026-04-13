@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Tanushri Thakare 👋</h1>
 
-🎓 B.Tech CS Student | 💻 Developer | 🔐 Aspiring Cybersecurity & Cloud Engineer
+🎓 B.Tech CS Student | 💻 Developer | 
 
 ---
 
@@ -13,7 +13,6 @@
 * 💡 Building **real-world, impact-driven tech projects**
 * 🔐 Exploring **Cybersecurity (SOC, SIEM, Threat Detection)**
 * ☁️ Learning **Cloud Security & Azure**
-* 🚀 Actively working on **advanced projects beyond basic web dev**
 * 🤝 Open to **internships & collaborations**
 
 ---
