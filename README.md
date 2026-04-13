@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/289a0e64-fe9e-423d-ac22-389bcce219ca" width="80%"/>
+  <img src="https://github.com/user-attachments/assets/430b6020-454b-427e-9fa8-2483ac78b433" width="80%"/>
 </p>
+
+<h1 align="center">Hi, I'm Tanushri Thakare 👋</h1>
+
 
 # Hi, I'm Tanushri Thakare 👋
 
