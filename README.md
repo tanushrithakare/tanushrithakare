@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="![ezgif com-gif-maker](https://github.com/user-attachments/assets/e8249b9f-b37e-46ac-9c68-56ba722b0063)
-" width="100%" height="300"/>
+  <img src="<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/289a0e64-fe9e-423d-ac22-389bcce219ca" />
+" width="80%"/>
 </p>
 
 # Hi, I'm Tanushri Thakare 👋
