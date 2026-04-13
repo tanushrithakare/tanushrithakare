@@ -1,5 +1,7 @@
-![ezgif com-gif-maker](https://github.com/user-attachments/assets/645eb2ea-58a0-41bb-83ff-b435a28a9aa1)
- width="100%" height="300" />
+<p align="center">
+  <img src="![ezgif com-gif-maker](https://github.com/user-attachments/assets/e8249b9f-b37e-46ac-9c68-56ba722b0063)
+" width="100%" height="300"/>
+</p>
 
 # Hi, I'm Tanushri Thakare 👋
 
