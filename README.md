@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/430b6020-454b-427e-9fa8-2483ac78b433" width="80%"/>
+  <img src="https://github.com/user-attachments/assets/430b6020-454b-427e-9fa8-2483ac78b433" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Tanushri Thakare 👋</h1>
-
 
 🎓 B.Tech CS Student | 💻 Developer | 🔐 Aspiring Cybersecurity & Cloud Engineer
 
