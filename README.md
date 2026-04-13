@@ -79,12 +79,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=tanushrithakare\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanushrithakare&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanushrithakare\&layout=compact\&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushrithakare&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 📫 Connect With Me
