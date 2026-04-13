@@ -78,11 +78,6 @@
 * 🧠 Data Structures & Problem Solving
 
 ---
-## 🐍 Contribution Graph  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tanushrithakare/tanushrithakare/output/snake.svg" alt="snake animation"/>
-</p>
 
 ## 📫 Connect With Me
 
