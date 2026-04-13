@@ -1,76 +1,98 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXcxaWd1OTdxMjZ5bzZ4eGxuNjhmdmRsbWVoNGRhdTk3NDRsOXp0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zFBj4UsdDKX1uEO05l/giphy.gif" width="100%" height="300" />
+<img src="![ezgif com-gif-maker](https://github.com/user-attachments/assets/645eb2ea-58a0-41bb-83ff-b435a28a9aa1)
+" width="100%" height="300" />
 
 # Hi, I'm Tanushri Thakare 👋
 
+🎓 B.Tech CS Student | 💻 Developer | 🔐 Aspiring Cybersecurity & Cloud Engineer
+
+---
+
 ## 👩‍💻 About Me
-- B.Tech Computer Science student  
-- Learning **Data Structures & Algorithms** and **Web Development**  
-- Interested in building **real-world, impact-driven projects**  
-- Open to **internships and learning opportunities**
+
+* 💡 Building **real-world, impact-driven tech projects**
+* 🔐 Exploring **Cybersecurity (SOC, SIEM, Threat Detection)**
+* ☁️ Learning **Cloud Security & Azure**
+* 🚀 Actively working on **advanced projects beyond basic web dev**
+* 🤝 Open to **internships & collaborations**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏛️ Aavaj-Adhikar  
-**Bridging the gap between citizens and government schemes**
+### 🔐 Sentinel SOC Lab (Azure Security Project) ⭐
 
-- Tech Stack: **JavaScript, HTML, CSS**
-- Focuses on awareness, accessibility, and citizen action  
-- Real-world **social impact project**  
+🔹 Real-world Security Operations Center (SOC) simulation
 
-🔗 Repository: https://github.com/tanushrithakare/Aavaj-Adhikar
+* ⚙️ Tech: Azure, Microsoft Sentinel, KQL, Logic Apps
+* 🔍 Built detection rules for cyber attacks (RDP brute force, suspicious login, etc.)
+* ⚡ Automated incident response using playbooks
+* 📊 Created dashboards for threat monitoring & analysis
+* 🛡️ Simulated real-world cyber attack scenarios
 
----
-
-### 🍽️ EatWisePro  
-**Healthy living & employment platform**
-
-- Mobile / web-based concept  
-- State-wise healthy recipes using local foods  
-- Job platform for blue-collar workers  
-
-🔗 Repository: https://github.com/tanushrithakare/eatwise-pro
+🔗 https://github.com/tanushrithakare/sentinel-soc
 
 ---
 
-### 📚 Online Book Store  
-**Simple web application for browsing and managing books**
+### 🏛️ Aavaj-Adhikar
 
-- Tech Stack: **HTML, CSS**
-- Beginner-friendly web project  
+🔹 Bridging citizens with government schemes
 
-🔗 Repository: https://github.com/tanushrithakare/online-book-store
-
----
-
-## 🧠 DSA & Problem Solving
-- Practicing DSA on **LeetCode**
-- Topics covered: Arrays, Strings, Recursion, Trees  
-- Currently learning **advanced Tree problems**
-
-📌 Upcoming Repository: `leetcode-dsa`
+* ⚙️ Tech: HTML, CSS, JavaScript
+* 🌍 Social impact focused platform
+  🔗 https://github.com/tanushrithakare/Aavaj-Adhikar
 
 ---
 
-## 🛠️ Skills
-**Languages:** C++, JavaScript, HTML, CSS  
-**Concepts:** DSA, Recursion, Binary Trees  
-**Tools:** Git, GitHub, VS Code  
+### 🍽️ EatWisePro
+
+🔹 Health + employment platform
+
+* 📱 State-wise nutrition + job system
+  🔗 https://github.com/tanushrithakare/eatwise-pro
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Data Structures  
-- Git & Open Source contribution  
-- Clean code and problem-solving patterns  
+## 🧠 Technical Skills
+
+### 🔐 Cybersecurity & Cloud
+
+* SIEM (Microsoft Sentinel)
+* Threat Detection & Incident Response
+* KQL (Kusto Query Language)
+* Log Analysis & Threat Hunting
+
+### 💻 Development
+
+* C++ | JavaScript | HTML | CSS
+
+### ⚙️ Tools
+
+* Git | GitHub | VS Code | Azure
+
+---
+
+## 📈 What I’m Currently Working On
+
+* 🔥 Advanced SOC & Cybersecurity Projects
+* ☁️ Cloud Security (Azure)
+* 🧠 Data Structures & Problem Solving
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=tanushrithakare\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanushrithakare\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
-- **GitHub:** https://github.com/tanushrithakare  
-- **Email:** tanushrithakare472@gmail.com  
+
+* 💼 LinkedIn: https://www.linkedin.com/in/tanushri-thakare
+* 📧 Email: [tanushrithakare472@gmail.com](mailto:tanushrithakare472@gmail.com)
+* 💻 GitHub: https://github.com/tanushrithakare
 
 ---
 
-⭐ *This profile is continuously evolving as I learn and build.*
+⭐ *Building skills. Solving real problems. Growing every day.*
