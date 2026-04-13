@@ -78,17 +78,11 @@
 * 🧠 Data Structures & Problem Solving
 
 ---
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanushrithakare&show_icons=true&theme=tokyonight" />
-</p>
+## 🐍 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushrithakare&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/tanushrithakare/tanushrithakare/output/snake.svg" alt="snake animation"/>
 </p>
----
 
 ## 📫 Connect With Me
 
