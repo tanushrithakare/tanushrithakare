@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/289a0e64-fe9e-423d-ac22-389bcce219ca" />
-" width="80%"/>
+  <img src="https://github.com/user-attachments/assets/289a0e64-fe9e-423d-ac22-389bcce219ca" width="80%"/>
 </p>
 
 # Hi, I'm Tanushri Thakare 👋
