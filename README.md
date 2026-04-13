@@ -5,8 +5,6 @@
 <h1 align="center">Hi, I'm Tanushri Thakare 👋</h1>
 
 
-# Hi, I'm Tanushri Thakare 👋
-
 🎓 B.Tech CS Student | 💻 Developer | 🔐 Aspiring Cybersecurity & Cloud Engineer
 
 ---
