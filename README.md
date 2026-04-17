@@ -73,8 +73,6 @@
 
 ## 📈 What I’m Currently Working On
 
-* 🔥 Advanced SOC & Cybersecurity Projects
-* ☁️ Cloud Security (Azure)
 * 🧠 Data Structures & Problem Solving
 
 ---
