@@ -12,7 +12,6 @@
 
 * 💡 Building **real-world, impact-driven tech projects**
 * 🔐 Exploring **Cybersecurity (SOC, SIEM, Threat Detection)**
-* ☁️ Learning **Cloud Security & Azure**
 * 🤝 Open to **internships & collaborations**
 
 ---
