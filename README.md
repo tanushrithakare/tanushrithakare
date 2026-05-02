@@ -57,7 +57,6 @@
 
 * SIEM (Microsoft Sentinel)
 * Threat Detection & Incident Response
-* KQL (Kusto Query Language)
 * Log Analysis & Threat Hunting
 
 ### 💻 Development
