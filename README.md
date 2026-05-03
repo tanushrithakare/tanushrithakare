@@ -65,7 +65,7 @@
 
 ### ⚙️ Tools
 
-* Git | GitHub | VS Code | Azure
+* Git | GitHub | VS Code 
 
 ---
 
