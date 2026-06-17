@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Tanushri Thakare 👋</h1>
 
-🎓 B.Tech CS Student | 💻 Developer | 
+🎓 B.Tech CS Student | 💻 Developer | Gen AI 
 
 ---
 
